@@ -16,7 +16,7 @@ __        ___           _    _        _   _     _
 
 ---
 
-### How To Run
+### How To Run the Program
 
 #### BASIC
 `fbc OwO.bas`
